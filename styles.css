@@ -74,3 +74,32 @@ footer {
 #btn {
   padding-top: 50px;
 }
+.angry {
+  width: 20%;
+  height: 30%;
+  display: flex;
+  justify-content: left;
+  position: absolute;
+  left: 5%;
+  top: 40%;
+  padding-top: 50;
+  visibility: hidden;
+}
+.angry1 {
+  width: 20%;
+  height: 30%;
+  display: flex;
+  justify-content: right;
+  position: absolute;
+  right: 5%;
+  top: 40%;
+  padding-top: 50;
+  visibility: hidden;
+}
+.hey {
+  visibility: visible;
+}
+.hey1 {
+  visibility: visible;
+}
+
