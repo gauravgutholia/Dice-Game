@@ -1,0 +1,76 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+  padding: 0 0 20px 0;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+}
+
+body {
+  background-color: #393e46;
+}
+
+h1 {
+  margin: 30px;
+  font-family: "Lobster", cursive;
+  text-shadow: 5px 0 #232931;
+  font-size: 8rem;
+  color: #4ecca3;
+}
+
+p {
+  font-size: 2rem;
+  color: #4ecca3;
+  font-family: "Indie Flower", cursive;
+}
+
+img {
+  width: 80%;
+}
+
+footer {
+  margin-top: 5%;
+  color: #eeeeee;
+  text-align: center;
+  font-family: "Indie Flower", cursive;
+}
+/*button*/
+.myButton {
+  background-color: #4ecca3;
+  border-radius: 30px;
+  border: 8px solid #404e49;
+  display: inline-block;
+  cursor: pointer;
+  margin: auto;
+  color: #ffffff;
+  font-family: Arial;
+  text-align: center;
+  padding: 0px;
+  border: 3px solid green;
+  font-size: 17px;
+  padding: 19px 76px;
+  text-decoration: none;
+
+  text-shadow: 0px 1px 0px #2f6627;
+}
+.myButton:hover {
+  background-color: #5cbf2a;
+}
+.myButton:active {
+  position: relative;
+  top: 1px;
+}
+@media (min-width: 706px) {
+  .myButton {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+}
+#btn {
+  padding-top: 50px;
+}
