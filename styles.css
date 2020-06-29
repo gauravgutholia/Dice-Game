@@ -103,3 +103,13 @@ footer {
   visibility: visible;
 }
 
+@media (max-width: 450px) {
+  .angry {
+    width: 10%;
+    height: 15%;
+  }
+  .angry1 {
+    width: 10%;
+    height: 15%;
+  }
+}
