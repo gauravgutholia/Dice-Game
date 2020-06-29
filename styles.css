@@ -105,11 +105,11 @@ footer {
 
 @media (max-width: 600px) {
   .angry {
-    width: 3%;
-    height: 5%;
+    width: 5%;
+    height: 8%;
   }
   .angry1 {
-    width: 30%;
-    height: 40%;
+    width: 5%;
+    height: 8;
   }
 }
